@@ -20,7 +20,6 @@ const addHandler = () => {
 }
 
 
-   
   
 const subtractHandler = () => {
     const newValue = parseInt (number.value) - STEP_AMOUNT
